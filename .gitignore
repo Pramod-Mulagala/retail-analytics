@@ -44,6 +44,7 @@ airflow/unittests.cfg
 .terraformrc
 terraform.rc
 .terraform.lock.hcl
+terraform.tfvars
 
 # DBT
 dbt/target/
