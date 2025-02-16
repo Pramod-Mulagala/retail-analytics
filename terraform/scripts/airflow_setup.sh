@@ -13,7 +13,7 @@ curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compo
 chmod +x /usr/local/bin/docker-compose
 
 # Clone the repository
-git clone https://github.com/Pramod-Mulagala/retail-analytics-data.git /opt/retail-analytics
+git clone https://github.com/Pramod-Mulagala/retail-analytics.git /opt/retail-analytics
 cd /opt/retail-analytics
 
 # Create Airflow directory structure
